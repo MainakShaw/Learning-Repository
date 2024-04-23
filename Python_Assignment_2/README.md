@@ -1,4 +1,4 @@
-# Python Assignment 3 - Lists, Sets, Dictionaries, and Loops
+# Python Assignment 2 - Lists, Sets, Dictionaries, and Loops
 
 This Jupyter notebook tackles various data structures (lists, sets, dictionaries) and control flow mechanisms (loops) in Python through an assignment structure. It covers:
 
