@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook exploring data visualization techniques in Python using the Matplotlib library.
 
-**Week 9 assignment.ipynb:**
+**Week 7 assignment.ipynb:**
 
 * This notebook delves into creating various data visualizations with Matplotlib, including:
     * Line plots
