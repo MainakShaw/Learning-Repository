@@ -19,10 +19,3 @@ Next, we'll delve into NumPy, a powerful library for working with numerical data
 * Reshaping arrays for different use cases.
 
 This practice session provides a solid foundation for further exploration of Python for data analysis, scientific computing, and more.
-
-**Ready to Get Started?**
-
-1. Save this file as `python_essentials.ipynb` inside the `Python_Essentials_Practice` folder.
-2. Open a terminal or command prompt and navigate to the directory containing this file.
-3. Run the Jupyter Notebook using the command: `jupyter notebook`
-4. Open `python_essentials.ipynb` in your browser.
