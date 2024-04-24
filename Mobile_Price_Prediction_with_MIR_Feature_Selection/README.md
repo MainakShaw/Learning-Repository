@@ -29,7 +29,7 @@ The notebook utilizes the "mobile_prices_2023.csv" dataset for the following ste
 
 1. Download the Jupyter Notebook file.
 2. Open the notebook in a Jupyter Notebook environment.
-3. Run the code cells sequentially to explore data cleaning, feature selection with MIR, and experiment with different visualizations (optional).
+3. Run the code cells sequentially to explore data cleaning, feature selection with MIR, and experiment with different visualizations.
 
 **Feel free to:**
 
